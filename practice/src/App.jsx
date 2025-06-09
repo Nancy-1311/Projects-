@@ -21,7 +21,7 @@ const App = () => {
       {/* <Calculator/> */}
       {/* <Dashboard/> */}
      {/* <Portfolio/> */}
-     <Weather/>
+     {/* <Weather/> */}
      {/* <TodoApp/>  */}
      {/* <DarkModeToggle/> */}
      {/* <SearchSortList/> */}
