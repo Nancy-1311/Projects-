@@ -16,14 +16,12 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      {/* <ProductPage/> */}
-      {/* <PopupForm/> */}
       {/* <Notes/> */}
       {/* <Popup/> */}
       {/* <Calculator/> */}
       {/* <Dashboard/> */}
      {/* <Portfolio/> */}
-     {/* <Weather/> */}
+     <Weather/>
      {/* <TodoApp/>  */}
      {/* <DarkModeToggle/> */}
      {/* <SearchSortList/> */}

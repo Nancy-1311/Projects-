@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { Link } from 'react-scroll';
 import { motion } from 'framer-motion';
-import light from '../src/images/sun.png';
-import dark from '../src/images/dark.png';
+import light from '../src/assets/images/sun.png';
+import dark from '../src/assets/images/dark.png';
 
 const NavBar = ({ toggleDarkMode, darkMode }) => {
   return (

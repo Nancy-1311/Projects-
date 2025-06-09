@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import arrow from '../src/images/right2.svg';
+import arrow from '../src/assets/images/right2.svg';
 import { BarChart, Bar, XAxis, Tooltip, ResponsiveContainer } from 'recharts';
 
 const data = [

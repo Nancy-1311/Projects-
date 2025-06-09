@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
-import w1 from '../src/images/weather.png';
-import temp from '../src/images/temp.png';
-import sky from '../src/images/sky.png';
-import humidity from '../src/images/humidity.png';
-import wind from '../src/images/wind.png';
+import w1 from '../src/assets/images/weather.png';
+import temp from '../src/assets/images/temp.png';
+import sky from '../src/assets/images/sky.png';
+import humidity from '../src/assets/images/humidity.png';
+import wind from '../src/assets/images/wind.png';
 
 const Weather = () => {
   const [city, setCity] = useState('');

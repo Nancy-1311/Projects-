@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import addButton from '../src/images/add.png';
+import addButton from '../src/assets/images/add.png';
 
 const Todo = () => {
   const [notes, setNotes] = useState([]);

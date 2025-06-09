@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
-import img1 from '../src/images/bg.jpeg';
-import img2 from '../src/images/bg1.jpeg';
-import img3 from '../src/images/bg2.jpeg';
-import img4 from '../src/images/bg3.jpeg';
-import arrow from '../src/images/arrow.png';
-import arrow1 from '../src/images/next.png';
-import cancel from '../src/images/cancel.png';
+import img1 from '../src/assets/images/bg.jpeg';
+import img2 from '../src/assets/images/bg1.jpeg';
+import img3 from '../src/assets/images/bg2.jpeg';
+import img4 from '../src/assets/images/bg3.jpeg';
+import arrow from '../src/assets/images/arrow.png';
+import arrow1 from '../src/assets/images/next.png';
+import cancel from '../src/assets/images/cancel.png';
 
 const images = [img1, img2, img3, img4];
 
